@@ -1,4 +1,4 @@
 -r ci.txt
 -r doc.txt
-pytest-sugar==0.9.4
+pytest-sugar==0.9.5
 flit==3.4.0
